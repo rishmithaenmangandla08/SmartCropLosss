@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import os
 
-from weather import get_weather
+from weather_api import get_weather
 
 # --------------------------------------------------
 # Page Configuration
